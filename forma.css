@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(21, 22, 22)
+}
+
+h1 {
+    color: aliceblue;
+    background-color: rgb(21, 22, 22);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+.img-fluid:hover{
+    cursor:pointer;
+    border-style: solid;
+    border-color: aliceblue;
+}
+.img-fluid{
+    height: 90%;
+    
+}
+ h2 { 
+    color: aliceblue;
+    background-color: rgb(21, 22, 22) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .container{
+padding: 0%;
+ }
+
+ nav {
+padding-left: 6.5%;
+
+ }
+ 
+ .nav-bar {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+

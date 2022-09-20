@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    display:flex;
+    align-items: center;
+}
+#Video-Miranha{
+    align-items: center;
+    margin-left: 16%;
+    margin-top:  5%;
+}
